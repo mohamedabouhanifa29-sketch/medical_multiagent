@@ -1,0 +1,42 @@
+{
+  "paracetamol": {
+    "nom": "Paracétamol",
+    "categorie": "Analgésique / Antipyrétique",
+    "dose_adulte": "500 mg à 1 g toutes les 6 heures",
+    "dose_max_jour": "4 g/jour",
+    "contre_indications": "Insuffisance hépatique sévère",
+    "remarque": "Ne pas associer à d'autres médicaments contenant du paracétamol."
+  },
+  "doliprane": {
+    "nom": "Doliprane (paracétamol)",
+    "categorie": "Analgésique / Antipyrétique",
+    "dose_adulte": "1 g toutes les 6 heures",
+    "dose_max_jour": "4 g/jour",
+    "contre_indications": "Insuffisance hépatique sévère",
+    "remarque": "Nom commercial du paracétamol."
+  },
+  "ibuprofene": {
+    "nom": "Ibuprofène",
+    "categorie": "Anti-inflammatoire non stéroïdien (AINS)",
+    "dose_adulte": "400 mg toutes les 8 heures",
+    "dose_max_jour": "1200 mg/jour (sans avis médical)",
+    "contre_indications": "Ulcère gastrique, grossesse (3e trimestre), insuffisance rénale",
+    "remarque": "À prendre systématiquement avec de la nourriture."
+  },
+  "amoxicilline": {
+    "nom": "Amoxicilline",
+    "categorie": "Antibiotique (famille des pénicillines)",
+    "dose_adulte": "500 mg toutes les 8 heures",
+    "dose_max_jour": "Selon prescription médicale",
+    "contre_indications": "Allergie connue à la pénicilline",
+    "remarque": "Vérifier systématiquement l'absence d'allergie avant prescription."
+  },
+  "aspirin": {
+    "nom": "Aspirine",
+    "categorie": "Analgésique / Antipyrétique / Anti-inflammatoire",
+    "dose_adulte": "500 mg à 1 g par prise",
+    "dose_max_jour": "3 g/jour",
+    "contre_indications": "Enfants de moins de 16 ans, troubles de la coagulation",
+    "remarque": "Contre-indiqué en cas de syndrome de Reye chez l'enfant."
+  }
+}
